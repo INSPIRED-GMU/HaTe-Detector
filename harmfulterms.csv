@@ -1,0 +1,66 @@
+Terms,Definition,Alternates
+abort,"Terms used to describe a process or job that stopped abruptly, either on its own or by user action; also used to describe the action of stopping a subsidiary process, e.g. an operating system process. These terms use generally invoke violent images that some writers may wish to avoid imposing on their readers., religious objections","cancel, force quit, stop, end, or finalize, cancel progress, end progress"
+terminate,"Terms used to describe a process or job that stopped abruptly, either on its own or by user action; also used to describe the action of stopping a subsidiary process, e.g. an operating system process. These terms use generally invoke violent images that some writers may wish to avoid imposing on their readers., religious objections","cancel, force quit, stop, end, or finalize, cancel progress, end progress"
+average user,When used to describe less experience users of technology this term may come across as pejorative.,"common, standard, or typical user"
+black box,"Term used to describe algorithms or processes that are decipherable by humans or not. In addition to potentially being perceived as racially charged in today's context, color-based terms are culturally specific, so there is little value in associating permissions with them.",opaque box
+white box,"Term used to describe algorithms or processes that are decipherable by humans or not. In addition to potentially being perceived as racially charged in today's context, color-based terms are culturally specific, so there is little value in associating permissions with them.","clear box, open box"
+black hat,"Term used to describe the motivations underlying an agent's actions. This term is arbitrary and has no explanatory value, as well as being racially charged and culturally specific.","unethical attacker, unethical hacker, hostile force"
+white hat,"Term used to describe the motivations underlying an agent's actions. This term is arbitrary and has no explanatory value, as well as being racially charged and culturally specific.","ethical attacker, ethical hacker, friendly force"
+blacklist,"Term used to describe whether an agent has access to a resource. In addition to being racially charged, color-based terms are culturally specific, so there is little value in associating permissions with them.","blocklist, unapprovedlist, denylist"
+whitelist,"Term used to describe whether an agent has access to a resource. In addition to being racially charged, color-based terms are culturally specific, so there is little value in associating permissions with them.","allowlist, approvedlist"
+blind,"Term used to describe the anonymity of authors and reviewers, also used in describing experiments. This term is offensive to people who are blind or have other visual impairments. Someone who is blind is not anonymous, yet, the this term is used to suggest anonymity.",anonymous
+double blind,"Term used to describe the anonymity of authors and reviewers, also used in describing experiments. This term is offensive to people who are blind or have other visual impairments. Someone who is blind is not anonymous, yet, the this term is used to suggest anonymity.",dual anonymous
+male connector,Term used for describing physical connectors in hardware systems. (sexist and normative),plug
+female connector,Term used for describing physical connectors in hardware systems. (sexist and normative),socket
+she,Gendered term does not necessarily pertain to everyone.,they
+her,Gendered term does not necessarily pertain to everyone.,them
+hers,Gendered term does not necessarily pertain to everyone.,their
+he,Gendered term does not necessarily pertain to everyone.,they
+him,Gendered term does not necessarily pertain to everyone.,them
+his,Gendered term does not necessarily pertain to everyone.,their
+master,"Term used in technology to describe the relationship between two processes or components. In addition to being a racially charged, the term does not necessarily reflect how the two interact.","primary, main, leader, parent, coordinator, host, origin"
+slave,"Term used in technology to describe the relationship between two processes or components. In addition to being a racially charged, the term does not necessarily reflect how the two interact.","secondary, replica, follower, child, worker, client, clone, standby, minions"
+quantum supremacy,"In computing this term is used to describe the computational advantage a quantum computer has on classical computer, or one quantum computer over another. The term has long been associated with crimes against humanity and genocide.",advantage
+grandfathered,"Though not exclusively used in the tech industry, phrases like “that product was grandfathered in” are directly related to the grandfather clause used to discriminate against African Americans in the nineteenth century. This phrase is usually used to describe “individuals or companies who get to keep operating under an existing set of expectations when new rules are put in place.” Racialized in its origins, the grandfather clause was created to discriminate and institutionally disenfranchise black voters and “their descendants from voting, while allowing poor and illiterate whites to vote.” Though the usage of grandfathering is now part of mainstream vernacular, its origins are rooted in oppressive policies enacted to institutionally disenfranchise African Americans. The term’s historical connections to slavery and casual reference to White supremacy does not reflect the ideals of an inclusive, safe, and equitable environment.",legacy status
+guys,Gendered term does not necessarily pertain to everyone.,"folks, people, you all, y'all, team"
+man hours,"In companies, the working hours or the effort are calculated with manhours. The typical workplace jargon has a bias where it seems like it counts the workforce's women out. Subconsciously, when you hear about manhour, you picture a man. Does that mean a man can only perform the work? In the case of the software industry— absolutely not. Hence, it is better to use a neutral term that appropriately conveys the message without giving rise to unconscious bias.","person hours, engineer hours, work hours, staff hours"
+sanity check,"Sanity pertains to mental health, other replacements could be more accurate.","quick check, confidence check, coherence check, initial check, spot check, well-formedness check, litmus test, unit test"
+sanity test,"Sanity pertains to mental health, other replacements could be more accurate.","quick check, confidence check, coherence check, initial check, spot check, well-formedness check, litmus test, unit test"
+dummy value,"The origin of ""dummy"" is a person who cannot speak, and so this term offends those who cannot speak.","placeholder value, sample value"
+scrum master,"Term is racially charged, there are many better alternatives.","Agile Lead, Agile Program Manager, Agile Coach, Agile Team Facilitator, Scrum Coach, Scrum Teacher, Scrum Leader, Scrum Facilitator, Servant Leader, Scrum Custodian, Scrum Guardian, Scrum Guide, Process Expert, Process Lead"
+mob programming,,"ensemble programming, team, swarm, troop"
+segregation,"This term is generally associated with keeping the other races separate from the race perceived to be superior. The practice of segregation is used for limiting people’s rights and privileges in a society based on their skin color, faith, or ethnicity.","Separation, Dissociation, Division"
+blackout period,"Due to the term's association with the color to indicate the meaning, it is wise to use alternate words that are not offensive to a specific population segment.","downtime, restrict, restricted, inaccessible"
+gray hat,"Avoid colored terminology, it is often racially charged.",hacktivist
+grey hat,"Avoid colored terminology, it is often racially charged.",hacktivist
+native,,built-in
+red team,"Avoid colored terminology, it is often racially charged.",cyber offense
+web master,"Term is racially charged, there are many better alternatives.",web product owner
+white space,"Avoid colored terminology, it is often racially charged.","empty space, blank space"
+white team,"Avoid colored terminology, it is often racially charged.",cyber exercise cell
+yellow team,"Avoid colored terminology, it is often racially charged.",DevSecOps team
+aboriginal,,"indigenous, indigenous people"
+brown bags,"Traces back to the brown paper bag test, which was traditionally used to judge skin color by certain African-American sororities and fraternities.","Lunch and Learn, Tech Talks"
+first-class citizen,,"type, object, entity, value"
+man-in-the-middle,Gendered term does not necessarily pertain to everyone.,"person-in-the-middle, machine-in-the-middle, monster-in-the-middle"
+master branch,Term is racially charged.,"trunk, main branch"
+minority,"The term minority has come to be seen as a generalized term for the other.� Also, the use of minority implies a less than attitude toward the community or communities being discussed. Instead, use either community-specific terms (e.g., Native American, African American, etc.) or the general term people of color when referring to racial or ethnic communities.","Native American, African American, people of color"
+normal,,typical
+handicapped,,person with disabilities
+crazy,,"unexpected, unpredictable"
+OCD,,"organized, detail-oriented"
+culture fit,,"values fit, cultural contribution"
+chairman,,"chairperson, chair, moderator, discussion leader"
+foreman,,"chairperson, chair, moderator, discussion leader"
+man,,"humanity, people, humankind"
+mankind,,"humanity, people, humankind"
+mans,,"operates, staffs"
+salesman,,sales representative
+manmade,,"synthetic, manufactured"
+manpower,,"workforce, staff, personnel"
+demilitarized zone,,perimeter network
+DMZ,,perimeter network
+hang,,stop responding
+daughter board,,"auxiliary board, ancillary board, secondary board"
+gender bender,,plug-socket adapter
+orphaned object,,"unreferenced object, de-referenced object, unlinked object"
