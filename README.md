@@ -3,7 +3,7 @@ Setup:
 - Install NodeJS (https://nodejs.org/en/download/)
 - Install Yarn (https://yarnpkg.com/getting-started/install)
 - Navigate to /app and run 'yarn install'
-- Navigate to /api and run 'node install'
+- Navigate to /api and run 'npm install'
 
 
 Run:
