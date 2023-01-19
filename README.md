@@ -7,6 +7,6 @@ Setup:
 
 
 Run:
-- Replace all secret keys (clientID, clientSecret, connectionURI) according to the Google Doc
+- Replace all secret keys (clientID, clientSecret, api_token, connectionURI) according to the Google Doc
 - To run the frontend application, navigate to /app and enter the command 'yarn start'
 - To run the backend server, navigate to /api and enter the command 'node index.js'
