@@ -1,6 +1,6 @@
-# HaTe-Detector
+# HaTe Detector: Detecting and Correcting Harmful Term Use in Computing
 
-The (Ha)rmful (Te)rminology Detector is a web application for detecting and correcting the use of harmful terminology in computing artifacts. 
+The (Ha)rmful (Te)rminology (HaTe) Detector is a web application for detecting and correcting the use of harmful terminology in computing artifacts. HaTe Detector connects with your GitHub account and analyzes the markdown files selected. HaTe Detector detects a wide range of harmful terms in computing, curated and made available as part of the HaTe Detector infrastructure.
 
 ## Environment Setup:
 - Install NodeJS (https://nodejs.org/en/download/)
